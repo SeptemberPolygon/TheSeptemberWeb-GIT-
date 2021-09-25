@@ -1,0 +1,50 @@
+body {
+  background-color: #000000;
+}
+h1 {
+  color: lime;
+  font-family: trebuchet ms;
+  text-align: center;
+  font-size: 45px;
+}
+p1 {
+  color: white;
+  font-family: trebuchet ms;
+  font-size: 25px;
+}
+a {
+  /*links*/
+  color: green;
+  font-family: trebuchet ms;
+  font-size: 25px;
+}
+h2 {
+  /*h2 is to be used for subheadings*/
+  color: white;
+  font-family: trebuchet ms;
+  text-align: center;
+}
+p2 {
+  color: lime;
+  font-family: trebuchet ms;
+}
+body1 {
+  float: right;
+  padding: 25px;
+}
+p3 {
+  color: white;
+  font-size: 10px;
+}
+.img1 {
+float: left;
+}
+p4{
+  color: lime;
+  font-family: trebuchet ms;
+  text-align: right;
+}
+emily{
+margin-left: auto;
+    margin-right: auto;
+}
