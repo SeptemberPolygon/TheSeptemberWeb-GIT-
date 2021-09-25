@@ -12,12 +12,6 @@ p1 {
   font-family: trebuchet ms;
   font-size: 25px;
 }
-a {
-  /*links*/
-  color: green;
-  font-family: trebuchet ms;
-  font-size: 25px;
-}
 h2 {
   /*h2 is to be used for subheadings*/
   color: white;
@@ -62,4 +56,8 @@ p5{
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
+}
+.hideme {
+	color: #000000;
+	font: comic sans ms;
 }
