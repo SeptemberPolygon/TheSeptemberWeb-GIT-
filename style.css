@@ -1,5 +1,7 @@
 body {
   background-image: url("Assets/gradient].png");
+  font-family: trebuchet ms;
+  color: aqua;
 }
 h1 {
   color: lime;
