@@ -79,11 +79,11 @@ p5{
 	font-family: comic sans ms;
   opacity: 0;
 }
-.center {
+.centerimg {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-width: 100%;
 }
 .Messagebar{
 	color: white;
