@@ -93,3 +93,8 @@ p5{
 footer {
   text-align: "center";
 }
+.email{
+  font-family: trebuchet ms;
+  font-size: 25px;
+  color: limegreen;
+}
