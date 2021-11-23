@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+  if (screen.width <= 699) {
+    document.location = "mobile.html";
+  }
+</script>
+	  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
+	  <link rel="stylesheet" href="style.css" />
+    <!--make sure you don't forget style.css!!!-->
+    <link
+      rel="icon"
+      href="https://cdn.glitch.com/667071b3-1aae-4b48-a2ab-e1517a04336f%2FTSW%20ICO.ico?v=1632333235060"
+      type="image/x-icon"
+    />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+  <body>
+<marquee behavior="scroll" class="Messagebar" scrollamount="15" direction="left">You are currently using the GitHub version of TSW! Please be aware that this website is still in beta and may not look right
+      on some devices. September's top tip, click on the TSW logo to return to the index.  </marquee>
+   <title>TSW - </title>
+<br>
+<br>
+<br>
+     <a href="index.html"><img src="TSWLogo.png" alt="TSW Logo" class="centerimg"></a>
+    <br />
+    <h2>
+      {insert something here}
+    </h2>
+    <hr />
+    <br>
+    <!--start of variable page content!-->
+   <!--end of page content, don't put anything past here except copyright info!-->
+  <br>
+  <hr>
+  </body>
+  <footer>
+  <br>
+  <br>
+  <p3>(C) September 2021, Some rights reserved. Website Revision 0.2d</p3>
+<a href="Ievan Polka-1.mp4" class="hideme" >you cheeky scrub </a>
+</footer>
+</html>
+</html>
