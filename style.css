@@ -62,18 +62,6 @@ p5{
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: black;
 }
-.button {
-  font-family: trebuchet ms;
-  text-decoration: bold;
-  background-color: #EEEEEE;
-  color: #333333;
-  padding: 2px 6px 2px 6px;
-  border-top: 1px solid #CCCCCC;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
-  border-left: 1px solid #CCCCCC;
-  font-size: 25px;
-}
 .hideme {
 	color: #000000;
 	font-family: comic sans ms;
@@ -97,4 +85,9 @@ footer {
   font-family: trebuchet ms;
   font-size: 25px;
   color: limegreen;
+}
+.button{
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
 }
