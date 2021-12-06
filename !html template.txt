@@ -17,9 +17,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	</head>
   <body>
-<marquee behavior="scroll" class="Messagebar" scrollamount="15" direction="left">You are currently using the GitHub version of TSW! Please be aware that this website is still in beta and may not look right
-      on some devices. September's top tip, click on the TSW logo to return to the index.  </marquee>
-   <title>TSW - </title>
+<marquee
+      behavior="scroll"
+      class="Messagebar"
+      scrollamount="10"
+      direction="left"
+      >Passement de jambe, crochet à gauche, à droite Kylian Mbappé Accélération, virgule, petit-pont, frappe Kylian Mbappé J'sais plus si j'suis gaucher ou droitier Je tire des deux pieds, Ousmane Dembélé J'sais plus si j'suis gaucher ou droitier Je tire des deux pieds, Ousmane Dembélé Ramenez la coupe à la maison Allez les bleus, allez 20 ans après c'est le moment Allez les bleus, allez Ramenez la coupe à la maison Allez les bleus, allez 20 ans après on est champion Allez les bleus, allez Mais comment il s'appelle? Kanté N'golo, N'golo Kanté Mais comment il s'appelle? Kanté N'golo, N'golo Kanté Mais comment il s'appelle? Kanté N'golo, N'golo Kanté Comment il s'appelle? Kanté N'golo, N'golo Kanté Maestro Kimpembe, Kimpembe, Kimpembe, Kimpembe Kimpembe, Kimpembe, Kimpembe Le milieu est assuré Attaquant, défense Paulo, Paulo Paul Pogba La Pioche Paulo, Paulo Paul Pogba
+    </marquee>
 <br>
 <br>
 <br>
