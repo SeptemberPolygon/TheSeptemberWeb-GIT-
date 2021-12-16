@@ -1,7 +1,7 @@
 body {
   background-color: #1e1e1e;
   font-family: trebuchet ms;
-  color: aqua;
+  color: white;
 }
 h1 {
   color: lime;
@@ -14,7 +14,7 @@ p1 {
   font-family: trebuchet ms;
   font-size: 25px;
   -webkit-text-stroke-width: 0.5px;
-            -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: black;
 }
 h2 {
   /*h2 is to be used for subheadings*/
@@ -22,49 +22,58 @@ h2 {
   font-family: trebuchet ms;
   text-align: center;
   -webkit-text-stroke-width: 0.5px;
-            -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: black;
 }
-p2 { /*Side notes, like answers to questions*/
+p2 {
+  /*Side notes, like answers to questions*/
   color: white;
   font-family: trebuchet ms;
   -webkit-text-stroke-width: 0.5px;
-            -webkit-text-stroke-color: black;
-            font-size: 25px;
+  -webkit-text-stroke-color: black;
+  font-size: 25px;
 }
 body1 {
-  float: right;
-  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
 }
-p3 { /*Footer Info*/
+p3 {
+  /*Footer Info*/
   color: white;
   font-size: 20px;
   font-family: trebuchet ms;
   margin-left: auto;
-    margin-right: auto;
+  margin-right: auto;
+}
+.boot {
+  /*Footer Info*/
+  color: white;
+  font-size: 20px;
+  font-family: trebuchet ms;
+  text-align: center;
 }
 .img1 {
-float: left;
+  float: left;
 }
-p4{
+p4 {
   color: lime;
   font-family: trebuchet ms;
   text-align: right;
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: black;
 }
-emily{
-margin-left: auto;
-    margin-right: auto;
+emily {
+  margin-left: auto;
+  margin-right: auto;
 }
-p5{
-	color: powderblue;
-	font-family: trebuchet ms;
+p5 {
+  color: powderblue;
+  font-family: trebuchet ms;
   -webkit-text-stroke-width: 0.5px;
   -webkit-text-stroke-color: black;
 }
 .hideme {
-	color: #000000;
-	font-family: comic sans ms;
+  color: #000000;
+  font-family: comic sans ms;
   opacity: 0;
 }
 .centerimg {
@@ -73,21 +82,24 @@ p5{
   margin-right: auto;
   max-width: 100%;
 }
-.Messagebar{
-	color: white;
-	font-family: trebuchet ms;
-
+.Messagebar {
+  color: white;
+  font-family: trebuchet ms;
 }
-footer {
-  text-align: "center";
-}
-.email{
+.email {
   font-family: trebuchet ms;
   font-size: 25px;
   color: limegreen;
 }
-.button{
+.button {
   color: black;
   font-size: 20px;
   text-decoration: none;
+  list-style-type: none;
+  padding-left: 0;
+}
+.numbertaker{
+}
+a{
+  color:white;
 }
